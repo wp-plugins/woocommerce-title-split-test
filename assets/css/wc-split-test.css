@@ -1,0 +1,26 @@
+#wc-title-test-list > .inside {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+
+#wc-title-test-list a.delete-title-test {
+	color: #a00;
+}
+
+#wc-title-test-list td.column-id {
+	color: #999;
+}
+
+
+#wc-title-test-list td.column-status span.published {
+	color: #7ad03a;
+}
+
+#wc-title-test-list td.column-status span.draft {
+	color: #a00;
+}
+
+#wc-title-test-list span.sep {
+	color: #999;
+}
