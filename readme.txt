@@ -49,6 +49,7 @@ Check it out !
 </ul>
 </p>
 
+<strong>Thank you!</strong>
 
 == Installation ==
 
@@ -60,10 +61,10 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
-4. screenshot-4.png
+1. List of title tests for aproduct.
+2. Test edit page.
+3. Orders filter by title test.
+4. Shows which title split test is used for each order item
 
 == Changelog ==
 

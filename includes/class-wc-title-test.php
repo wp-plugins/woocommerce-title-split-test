@@ -172,6 +172,12 @@ class WC_Title_Test
 
 		add_meta_box('wc-title-test-parent', __('Parent Product', 'wc_title_test'), array($this, 'render_parent_product_meta_box'), 'wc_title_test', 'normal');
 
+		add_meta_box('wc-title-test-ad', __('Title test is not enough ?', 'wc_title_test'), array($this, 'render_ad'), 'wc_title_test', 'normal');
+
+	}
+
+	public function render_ad() {
+		echo '<p>Check out premium version of this plugin: <a target="_blank" href="http://codecanyon.net/item/woocommerce-ab-split-testing/10438564">Woocommerce AB Split Testing</a></p>';
 	}
 
 
