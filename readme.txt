@@ -9,9 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-About Plugin
-
-Plugin allows you to make different split versions of your product and discover which one sells more. So you can optimize it !!
+Plugin allows you to make different split versions of your product title and discover which one sells more. So you can optimize it !!
 
 You can create as many split title versions of your products as you want.
 
@@ -20,15 +18,37 @@ When user comes to your website, plugin randomly chose one title version for a p
 
 In your admin panel you will see how many times title test version replaced original product, how many sales made, and what is sales rate, so you can see which title performs best!
 
-Features
 
-Unlimited number of title test versions per product;
-Create title tests version by duplicating original product;
-Preview title test on frontend before publishing;
-Track how many times title test version has replaced original product;
-Track order count of each product title version;
-Track sales rate in percents of each product version;
-List orders where product title version has been used;
+<strong>Features</strong>
+
+<ul>
+<li>Unlimited number of title test versions per product;</li>
+<li>Create title tests version by duplicating original product;</li>
+<li>Preview title test on front-end before publishing;</li>
+<li>Track how many times title test version has replaced original product;</li>
+<li>Track order count of each product title version;</li>
+<li>Track sales rate in percents of each product version;</li>
+<li>List orders where product title version has been used;</li>
+<li></li>
+</ul>
+
+<strong>To test title is not enough ?</strong>
+<p>
+Premium version of this plugins:
+<a href="http://codecanyon.net/item/woocommerce-ab-split-testing/10438564">Woocommerce AB Split Testing</a>
+Check it out !
+</p>
+<p>
+<strong>Premium version allows you to test:</strong>
+<ul>
+<li>Title;</li>
+<li>Description;</li>
+<li>Short description;</li>
+<li>Gallery;</li>
+<li>Thumbnail;</li>
+</ul>
+</p>
+
 
 == Installation ==
 

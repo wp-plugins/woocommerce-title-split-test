@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WooCommerce title test
- * Description:        Allows to create different product versions to see which one sells more.
+ * Description:       Allows to create different product title versions to see which one sells more.
  * Version:           1.0.0
  * Author:            Justinas Staskus
  * License:           GPL-2.0+
